@@ -1,2 +1,2 @@
 # Big-data
-Generating Movie Recommendations using Hadoop map-reduce and Spark on AWS cloud clusters
+Generating Movie Recommendations from 1 million user ratings data, using Hadoop map-reduce and Spark on AWS cloud clusters
