@@ -19,8 +19,10 @@ Implementing the movie recommendations in Spark would require you to manually se
 
 To generate recommendations first copy your scala files from your spark folder into your Amazon S3 bucket. 
 Then log in to your master node of the cluster and run the command as given below.
+
   spark-submit MovieSimilarities1M.jar 260
- 260 refers to the particular movie name for which you wish to generate movie similarities.
+
+260 refers to the particular movie name for which you wish to generate movie similarities.
  
  Make sure you copy your files from your S3 bucket to your EMR cluster before you start generating recommendations.
  
